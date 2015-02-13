@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://david-hatton.github.io/sitemap.xml 
