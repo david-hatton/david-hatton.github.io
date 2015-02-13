@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Programming in the trenches.]]></title>
+  <link href="http://david-hatton.github.io/atom.xml" rel="self"/>
+  <link href="http://david-hatton.github.io/"/>
+  <updated>2015-02-13T19:25:20+00:00</updated>
+  <id>http://david-hatton.github.io/</id>
+  <author>
+    <name><![CDATA[David Hatton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome to My Blog]]></title>
+    <link href="http://david-hatton.github.io/blog/2015/02/13/welcome-to-my-blog/"/>
+    <updated>2015-02-13T13:13:22+00:00</updated>
+    <id>http://david-hatton.github.io/blog/2015/02/13/welcome-to-my-blog</id>
+    <content type="html"><![CDATA[<p>So, finally, I&rsquo;ve started this blog.</p>
+
+<p>Hope to fill it with my thoughts on (amongst other things):</p>
+
+<ul>
+<li>Programming (in Java and more)</li>
+<li>Testing techniques and philosophies</li>
+<li>Java performance tips</li>
+<li>various databases I have been trying out &hellip;</li>
+</ul>
+
+
+<p> &hellip; and many other topics after that &hellip;</p>
+]]></content>
+  </entry>
+  
+</feed>
