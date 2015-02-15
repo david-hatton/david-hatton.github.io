@@ -4,7 +4,7 @@
   <title><![CDATA[Category: General | Programming in the trenches.]]></title>
   <link href="http://david-hatton.github.io/blog/categories/general/atom.xml" rel="self"/>
   <link href="http://david-hatton.github.io/"/>
-  <updated>2015-02-13T19:25:20+00:00</updated>
+  <updated>2015-02-15T11:58:43+00:00</updated>
   <id>http://david-hatton.github.io/</id>
   <author>
     <name><![CDATA[David Hatton]]></name>
@@ -18,15 +18,27 @@
     <link href="http://david-hatton.github.io/blog/2015/02/13/welcome-to-my-blog/"/>
     <updated>2015-02-13T13:13:22+00:00</updated>
     <id>http://david-hatton.github.io/blog/2015/02/13/welcome-to-my-blog</id>
-    <content type="html"><![CDATA[<p>So, finally, I&rsquo;ve started this blog.</p>
+    <content type="html"><![CDATA[<p>My first post&hellip;.</p>
 
-<p>Hope to fill it with my thoughts on (amongst other things):</p>
+<p>So I&rsquo;ll start with a quick introduction to myself and what this blog might
+contain:</p>
+
+<p>I am a software developer whose main experiences are with server side java
+development. I have worked predominantly using JSE but in the last 2 years I
+have been involved in JEE development. If you go far enough back I have worked
+with other technologies (C, C++, Erlang) but probably won&rsquo;t have much to say
+about them.</p>
+
+<p>Personally I have been playing around with Groovy, Scala, and a few other
+languages so I might talk about these from time to time.</p>
+
+<p>Right now, I hope to soon add some posts about:</p>
 
 <ul>
 <li>Programming (in Java and more)</li>
 <li>Testing techniques and philosophies</li>
 <li>Java performance tips</li>
-<li>various databases I have been trying out &hellip;</li>
+<li>Experiences with various databases I have been trying out &hellip;</li>
 </ul>
 
 
